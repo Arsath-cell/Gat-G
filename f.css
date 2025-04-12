@@ -1,0 +1,80 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+nav {
+    background-color: black;
+    padding: 20px;
+
+
+
+}
+
+h1 {
+    color: aliceblue;
+    border-radius: 0%;
+    size-adjust: 20px;
+    display: inline;
+}
+
+ul {
+    display: inline;
+    margin-left: 60%;
+}
+
+li {
+    display: inline;
+    color: white;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+li:hover {
+    color: aqua;
+}
+
+input {
+    width: 60%;
+    padding: 10px;
+    margin: 50px;
+}
+
+.searchbar,
+.blogs {
+    text-align: center;
+}
+
+.box {
+    display: inline-block;
+    border-width: 2px;
+    border-style: solid;
+    width: 180px;
+    margin-left: 30px;
+    height: 300px;
+}
+
+.box:hover {
+    color: white;
+    background-color: black;
+}
+
+.footer {
+    background-color: rgb(0, 0, 0);
+    margin-top: 30px;
+    padding: 50px;
+
+}
+
+td,
+tr {
+    color: white;
+    padding-left: 50px;
+    text-align: center;
+    padding-top: 30px;
+    cursor: pointer;
+}
+
+td:hover {
+    color: yellow;
+}
