@@ -1,0 +1,28 @@
+.one {
+    color: rgb(228, 0, 0);
+}
+.two{
+    color: deeppink;
+}
+
+#qwerty{
+    color: black;
+}
+#ytrewq{
+    color: red;
+}
+h1{
+    color: white;
+    background-color: black;
+    padding: 5px;
+    margin-left: 10px;
+    
+}
+div{
+    display: flex;
+    flex-direction: row;
+    background-color: greenyellow;
+    flex-wrap: wrap;
+    width: 250px;
+    justify-content: space-around;
+}
